@@ -33,3 +33,4 @@ Temporary Items
 
 # Exclude workspace-specific settings
 .vscode/cspell.json
+.vs/
